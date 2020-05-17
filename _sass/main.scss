@@ -193,13 +193,15 @@ img {
 
 /* For mobile devices */
 @media only screen and (orientation: portrait) {
-
   #main {
     width: 90vw;
     margin: 0 5vw;
   }
 
-  .main-content {}
+  .main-content {
+    margin: 125px 0;
+  }
+
     .main-content-home-text {
       max-width: 85vw;
     }
