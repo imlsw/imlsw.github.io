@@ -2,6 +2,7 @@
 layout: post
 title:  "Year in review"
 permalink: /2019-year-in-review/
+categories: [blog]
 author: Ilse
 ---
 
