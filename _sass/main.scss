@@ -148,6 +148,10 @@ a {
       float: right;
     }
 
+    .main-content-overview-intro {
+      max-width: 750px;
+    }
+
   /** Content blogs **/
   .main-content-blog {
     max-width: 45vw;
@@ -200,7 +204,7 @@ img {
   }
 
   .main-content {
-    margin: 175px 0;
+    margin: 60px 0;
   }
 
     .main-content-home-text {
@@ -220,6 +224,22 @@ img {
   .main-content-blog {
     max-width: 85vw;
   }
+
+  /** Content tables **/
+  .main-content-table {
+  }
+
+    .main-content-table th {
+    }
+
+      .main-content-table tr {
+        height: 80px;
+      }
+
+        .main-content-table td {
+          padding-right: 20px;
+          border-bottom: 1px solid #dddddd;
+        }
 
   #nav {
     width: 87.5vw;
