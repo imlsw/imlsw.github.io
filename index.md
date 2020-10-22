@@ -4,14 +4,10 @@ title: "Home"
 permalink: /
 ---
 
-For all of the above, this is the place to be. Welcome.
+# Hoi! Leuk dat je er bent 👋
 
-My name is Ilse Löbker. I’m a 26-year-old designer from The Netherlands. This is the only place, except for LinkedIn <a href="https://linkedin.com/in/ilselobker" target="blank">&#8599;</a>, where you’ll find something about me, because I deleted my social media accounts back in 2018.
+Welkom op mijn persoonlijke stukje internet. Mijn naam is Ilse en ik ben 26 jaar oud. Oorspronkelijk kom ik uit Twente, maar na een boel verhuizingen (8!) woon ik momenteel in Nijmegen. Het grootste deel van de week werk ik aan web- en app-designs. Verder lees ik zo'n zes boeken per maand, wandel ik dagelijks een kilometer of vijf, sport ik iedere ochtend en leer ik Japans voor de lol.
 
-Long story short: Most of my days I’m working on web and app designs. I read a lot of non-fiction books. I work out at 6:15 every morning. Most of my meals are vegan. I learn Japanese for fun.
+Dit is de enige plek waar je me gaat vinden —op [LinkedIn](https://linkedin.com/in/ilselobker) na— aangezien ik mijn socialmedia-accounts in 2018 heb verwijderd.
 
-Anyway.
-
-As a designer, it’s common to have a portfolio website. I decided against this. 90% of my work doesn’t see the daylight. It lives on sketch paper, in words, or in spreadsheets. Therefore, this is my personal space. I go here to check on my references, my to-read list, and recipes. Sometimes I write blogs.
-
-Have a look. See what I like. Hopefully, you will find something you like as well.
+Hopelijk kom je wat leuks tegen.
