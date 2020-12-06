@@ -52,12 +52,20 @@ h3 {
   margin: 32px 0 -8px 0;
 }
 
-/* Date */
+/* Special texts */
 .date {
   font-size: 15px;
   color: #999;
   margin: 16px 0 -4px 0;
   padding: 0;
+}
+
+.disclaimer {
+  background-color: #f7f7f7;
+  font-size: 15px;
+  font-style: italic;
+  margin: 24px 0 0 0;
+  padding: 24px;
 }
 
 /* Images */
