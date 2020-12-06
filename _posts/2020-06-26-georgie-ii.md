@@ -9,7 +9,7 @@ author: Ilse
 # Georgië II — Het land in een notendop
 <div class="disclaimer">Dit artikel is onderdeel van mijn zesdelige serie over Georgië. Als je hier voor het eerst bent, raad ik je aan te beginnen bij <a href="/georgie-1">Georgië I</a>.</div>
 
-Als je naar Georgië gaat, moet je wat dingen weten. "Men" zegt dat Tbilisi (spreek je uit als *te-bi-LIE-sie*), de hoofdstad van Georgië, goed te doen is voor West-Europeanen. Het is een grote stad, er is veel te zien en je komt redelijk uit de voeten met Engels en wat handen-en-voetenwerk. Maar wij vlogen naar Kutaisi, de tweede stad van Georgië. Zonder planning, zonder voorkennis. In dit artikel wil ik mijn nakennis met jou delen, zodat je in ieder geval weet waar je aan toe bent. En tegerlijkertijd iets over Georgië leert.
+Als je naar Georgië gaat, moet je wat dingen weten. "Men" zegt dat Tbilisi (spreek je uit als *te-bi-LIE-sie*), de hoofdstad van Georgië, goed te doen is voor West-Europeanen. Het is een grote stad, er is veel te zien en je komt redelijk uit de voeten met Engels en wat handen-en-voetenwerk. Maar wij vlogen naar Kutaisi, de tweede stad van Georgië. Zonder planning, met nauwelijks voorkennis. In dit artikel wil ik mijn nakennis met jou delen, zodat je in ieder geval weet waar je aan toe bent. En tegerlijkertijd iets over Georgië leert.
 
 ## Het land, de taal
 Georgië is niet zo groot. Er wonen iets minder dan 4 miljoen mensen op een oppervlak ter grootte van Nederland en België samen. Van die 4 miljoen mensen wonen er 1,5 miljoen in hoofdstad Tbilisi. Kutaisi heeft zo'n 200.000 inwoners. Andere steden kun je vergelijken met de grootte van Zwolle of kleiner. Niet heel spannend dus.
