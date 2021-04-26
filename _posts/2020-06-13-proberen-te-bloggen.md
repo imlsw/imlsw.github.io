@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: detail
 title: "Ik probeer dit al jaren"
 permalink: /proberen-te-bloggen
 categories: [blogs]
 author: Ilse
+excerpt: De reden waarom ik eigenlijk nooit wat publiceer.
 ---
 
 # Ik probeer dit al jaren
-<div class="date">Juni 2020</div>
+<div class="blog-date">Juni 2020</div>
 
 Ik probeer al jaren te bloggen. Telkens word ik tegengehouden door mezelf. Dan gaan er vragen door me heen, zoals “Waarom zou ik gaan bloggen?” of “Waar bestaat een goed blog uit?” De laatste tijd zijn die vragen meer richting “Bestaat bloggen eigenlijk nog wel of is het puur en SEO-strategie?” en “Heb ik eigenlijk wel het recht om te bloggen?” Over de antwoorden op deze vragen kunnen we discussiëren.
 
