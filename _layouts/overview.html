@@ -9,10 +9,12 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
-    {% include navigation.html %}
-
     <div id="container">
-      {{ content }}
+      {% include navigation.html %}
+
+      <div class="content">
+        {{ content }}
+      </div>
     </div>
   </body>
 </html>
