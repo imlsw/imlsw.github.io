@@ -1,0 +1,63 @@
+/* Layout */
+#container { width: 95vw; margin-left: auto; margin-right: auto; }
+
+#navigation { height: 48px; }
+
+.navigation-title { float: left; }
+
+.navigation-title a { color: #222222; text-decoration: none; }
+
+.menu { margin: 1em 0; float: right; }
+
+.menu-item { display: inline; padding-right: 24px; }
+
+.menu-item:last-child { padding-right: 0; }
+
+.menu-item a { color: #222222; }
+
+.menu-item a:visited { color: #222222; }
+
+.content { width: 60vw; max-width: 600px; margin: 120px auto; }
+
+/* Typography */
+body { font-family: "Georgia", "Hiragino Kaku Gothic ProN", serif; font-size: 16px; line-height: 1.6; color: #222222; }
+
+h1 { font-size: 48px; font-style: italic; font-weight: 400; line-height: 1.05; }
+
+h2 { font-size: 32px; font-weight: 400; margin: 36px 0 -4px 0; }
+
+h3 { font-size: 20px; font-weight: 600; margin: 24px 0 -8px 0; }
+
+h4 { font-size: 18px; font-weight: 600; }
+
+h5 { font-size: 16px; font-weight: 600; }
+
+img { width: 150%; max-height: 800px; object-fit: contain; margin-left: -150px; }
+
+/* Lists */
+/* Blog overview */
+.blog-list { margin-top: 36px; }
+
+.blog-list li { list-style-type: none; }
+
+.blog-list a { color: #222222; text-decoration: none; }
+
+.blog-preview { background-color: #ffffff; -webkit-box-shadow: 0px 2px 4px #EEEEEE; -moz-box-shadow: 0px 2px 4px #EEEEEE; box-shadow: 0px 2px 4px #EEEEEE; border-radius: 4px; margin-bottom: -8px; }
+
+.blog-preview:hover { -webkit-box-shadow: 0px 4px 20px #DDDDDD; -moz-box-shadow: 0px 4px 20px #DDDDDD; box-shadow: 0px 4px 20px #DDDDDD; transition-delay: 0.2s; transition-duration: 0.7s; }
+
+.blog-title { font-weight: 600; text-decoration: underline; padding: 12px 16px 0 16px; }
+
+.blog-title:hover { color: #2600ff !important; }
+
+.blog-description { font-size: 14px; line-height: 1.4; margin-top: -12px; padding: 0 16px 16px 16px; }
+
+/* Blog detail*/
+.blog-date { font-style: italic; margin-top: -12px; }
+
+.image-description { width: 150%; font-size: 13px; font-style: italic; color: #888888; text-align: center; margin: -12px 0 24px -150px; }
+
+/* Responsive */
+@media only screen and (max-width: 960px) { #container { width: 90vw; margin: 0 2vw; } .menu-item { padding-right: 12px; } .content { width: 90vw; margin: 48px auto; } h1 { font-size: 36px; } h2 { font-size: 24px; margin: 24px 0 -8px 0; } h3 { font-size: 20px; } img { width: 100%; margin: 0; } .blog-date { margin-top: -8px; } .image-description { width: 100%; margin: -16px 0 12px 0; font-size: 13px; font-style: italic; color: #888888; text-align: center; } }
+
+/*# sourceMappingURL=main.css.map */
