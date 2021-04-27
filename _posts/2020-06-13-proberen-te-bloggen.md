@@ -2,7 +2,7 @@
 layout: detail
 title: "Ik probeer dit al jaren"
 permalink: /proberen-te-bloggen
-categories: [blogs]
+categories: [blogs, home]
 author: Ilse
 excerpt: De reden waarom ik eigenlijk nooit wat publiceer.
 ---
