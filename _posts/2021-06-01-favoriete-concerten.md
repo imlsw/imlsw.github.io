@@ -74,7 +74,7 @@ In 2012 zag ik Bloc Party op Lowlands en [het was feest](https://www.youtube.com
 
 PS: Hun slechtste optreden? 15 oktober 2018 in AFAS Live. Dat optreden was nog slechter dan BØRNS op Lowlands 2018.
 
-![Bloc Party tijdens Lowlands](/assets/images/blogs/concerten/09-bloc-party.jpg)
+![Bloc Party tijdens Lowlands](/assets/images/blogs/concerten/09-bloc-party.JPG)
 <div class="image-description">Bloc Party tijdens Lowlands 2012.</div>
 
 ## Editors, Lowlands 2013
