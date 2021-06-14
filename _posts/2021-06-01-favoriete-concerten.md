@@ -8,7 +8,7 @@ excerpt: Terugblik op de beste shows die ik tot nu toe heb gezien.
 ---
 
 # Mijn favoriete concerten aller tijden (tot nu toe)
-<div class="blog-date">Mei 2020</div>
+<div class="blog-date">Juni 2021</div>
 
 Concerten. Ondertussen mis ik ze wel een beetje hoor. De blijdschap wanneer je hoort dat je favoriete artiest in de buurt optreedt. De spanning of je wel of geen kaartje kunt bemachtigen. De voorpret van welke nummers er gespeeld zullen worden. Het ontdekken van het voorprogramma. Het aftellen tot de dag zelf. Het drie keer kijken of je daadwerkelijk het juiste ticket mee hebt. En dan de show..
 
