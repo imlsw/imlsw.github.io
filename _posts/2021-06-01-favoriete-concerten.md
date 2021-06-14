@@ -121,25 +121,25 @@ Omdat er best een aantal mensen zijn die nog nooit een concert en/of festival he
 ![Feesten in de 24-uurstent](/assets/images/blogs/concerten/02-bar.jpg)
 <div class="image-description">De 24uurstent op Lowlands, toen 'ie nog bestond. Altijd een feestje als je niks te doen had, een hel als je probeerde te slapen. In 2017 vervangen voor het 24uursterrein: de ArmadiLLow.</div>
 
-![Tai chi tijdens Lowlands](/assets/images/blogs/concerten/06-tai-chi.jpg)
+![Tai chi tijdens Lowlands](/assets/images/blogs/concerten/06-tai-chi.JPG)
 <div class="image-description">Een lesje tai chi (gezondheid!) tijdens Lowlands. Het eerste jaar durfden we niet echt mee te doen, maar nu is het vaste prik (ondertussen doen ze geen tai chi meer, maar yoga).</div>
 
 ![Skrillex op Lowlands](/assets/images/blogs/concerten/01-skrillex.jpg)
 <div class="image-description">Skrillex in de Alpha tijdens Lowlands 2011.</div>
 
-![Een glas rosébier](/assets/images/blogs/concerten/05-rose.jpg)
+![Een glas rosébier](/assets/images/blogs/concerten/05-rose.JPG)
 <div class="image-description">Ik lustte geen bier tot 2014: op Rock Werchter dronk ik vooral rosébier.</div>
 
-![Lowlands na zonsondergang](/assets/images/blogs/concerten/08-lowlands.jpg)
+![Lowlands na zonsondergang](/assets/images/blogs/concerten/08-lowlands.JPG)
 <div class="image-description">Goede tijden: de Alpha tijdens zonsondergang. Met dit uitzicht sta je op de heuvel. Het terrein van de Alpha blijft een van mijn favoriete plekken.</div>
 
-![Ed Sheeran](/assets/images/blogs/concerten/13-ed-sheeran.jpg)
+![Ed Sheeran](/assets/images/blogs/concerten/13-ed-sheeran.JPG)
 <div class="image-description">Toen je nog vooraan kon staan bij Ed Sheeran (Lowlands 2012).</div>
 
 ![Mensen kijken op een festivalterrein](/assets/images/blogs/concerten/10-bar-le-duc.jpg)
 <div class="image-description">Kiekje van de zijlijn. Hetzelfde jaar (2012) waren Bar Le Duc-pakken echt helemaal hip op het festivalterrein (want je mocht geen flesjes mee en het was warm).</div>
 
-![Dave Grohl en zijn band op het podium](/assets/images/blogs/concerten/11-foo-fighters.jpg)
+![Dave Grohl en zijn band op het podium](/assets/images/blogs/concerten/11-foo-fighters.JPG)
 <div class="image-description">Kiezen of delen: tweeënhalf uur Foo Fighters of tweeënhalf uur Wilco? Toch maar voor de Foo Fighters gegaan. Worth it. Kandidaat voor mijn lijst der lijsten als ik daadwerkelijk van Foo Fighters had gehouden. <a href="https://www.youtube.com/watch?v=vnbTPWWy1h8" target="blank">Maar het concert was wel echt gruwelijk</a>.</div>
 
 ![Lege tent](/assets/images/blogs/concerten/14-grolsch.jpg)
@@ -148,26 +148,26 @@ Omdat er best een aantal mensen zijn die nog nooit een concert en/of festival he
 ![Publiek tijdens Rock en Seine](/assets/images/blogs/concerten/15-rock-en-seine.jpg)
 <div class="image-description">Ook uit mijn analoge fase, een week later. Wachtend publiek voor een optreden in hartje Parijs.</div>
 
-![Wachtend publiek](/assets/images/blogs/concerten/12-publiek.jpg)
+![Wachtend publiek](/assets/images/blogs/concerten/12-publiek.JPG)
 <div class="image-description">Lekker wachten in de Alpha met z'n allen.</div>
 
 ![Kijken naar de menigte](/assets/images/blogs/concerten/16-intermezzo.jpg)
 <div class="image-description">Wat te doen als je even de tijd wilt doden op Lowlands? Kijken hoe kapot mensen over de brug heenkomen. Letterlijk of figuurlijk, want er sneuvelden jaarlijks tientallen tassen en koffers. Verleden tijd, want tegenwoordig hebben ze een viaduct.</div>
 
-![Avondconcert](/assets/images/blogs/concerten/17-itgwo.jpg)
+![Avondconcert](/assets/images/blogs/concerten/17-itgwo.JPG)
 <div class="image-description">Het optreden van Elias in het bos tijdens <i>Into The Great Wide Open.</i> (2015)</div>
 
-![Festivalsfeer](/assets/images/blogs/concerten/21-lopen.jpg)
+![Festivalsfeer](/assets/images/blogs/concerten/21-lopen.JPG)
 <div class="image-description">Publiek tijdens Lowlands (2019). Zo zien de avonden eruit. Het koelt langzaam af en het publiek verdeelt zich over het terrein. Dit zijn wel de mooiste momenten om gewoon even rond te lopen.</div>
 
-![De Alpha-tent voor het optreden van de Gorillaz](/assets/images/blogs/concerten/18-alpha.jpg)
+![De Alpha-tent voor het optreden van de Gorillaz](/assets/images/blogs/concerten/18-alpha.JPG)
 <div class="image-description">De nieuwe Alpha-tent Foto genomen in 2018, net voor het optreden van Gorillaz.</div>
 
 ![Leegte bij de Alpha](/assets/images/blogs/concerten/22-leegte.jpg)
 <div class="image-description">Het is niet altijd druk op het terrein. Dit is vrijdagsochtend (eerste dag) net na de opening van het terrein. Wanneer het nog veilig is om op het gras te zitten.</div>
 
-![De Bravo-tent in de avond](/assets/images/blogs/concerten/19-bravo.jpg)
+![De Bravo-tent in de avond](/assets/images/blogs/concerten/19-bravo.JPG)
 <div class="image-description">Lowlands' relatief nieuwe Bravo-tent (inwijding in 2017, foto tijdens de silent disco van de donderdagavond in 2019).</div>
 
-![Publiek na een optreden](/assets/images/blogs/concerten/20-publiek.jpg)
+![Publiek na een optreden](/assets/images/blogs/concerten/20-publiek.JPG)
 <div class="image-description">Tijdens een concert N*E*R*D (Lowlands 2018).</div>
