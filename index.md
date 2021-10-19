@@ -6,7 +6,7 @@ permalink: /
 
 # Hoi! Leuk dat je er bent 👋
 
-Welkom op mijn persoonlijke stukje internet. Aangenaam. Mocht je me niet kennen: mijn naam is Ilse. Oorspronkelijk kom ik uit Twente, maar na 8 verhuizingen bevind ik me momenteel in Nijmegen. Het grootste deel van de week spendeer ik aan web- en appdesigns. Daarnaast [lees ik meer dan gezond voor me is](/gelezen-in-2020), wandel ik dagelijks een kilometer of vijf, sport ik iedere ochtend en leer ik Japans voor de lol. Dat is direct ook zo’n beetje mijn leven in één paragraaf.
+Welkom op mijn persoonlijke stukje internet. Aangenaam. Mocht je me niet kennen: mijn naam is Ilse. Oorspronkelijk kom ik uit Twente, maar na 8 verhuizingen bevind ik me momenteel in Nijmegen. Het grootste deel van de week spendeer ik aan web- en appdesigns. Daarnaast [lees ik meer dan gezond voor me is](/gelezen-in-2021), wandel ik dagelijks een kilometer of vijf, sport ik iedere ochtend en leer ik Japans voor de lol. Dat is direct ook zo’n beetje mijn leven in één paragraaf.
 
 Als designer is het ondertussen semi-verplicht* om een online portfolio te hebben, maar dat staat me niet zo aan. Vandaar: wel een website, geen portfolio.
 
