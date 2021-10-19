@@ -12,7 +12,8 @@ excerpt: De boeken die ik iedereen aanraad.
 
 In de afgelopen 9 jaar heb ik bijna 700 boeken gelezen. Dat ik graag lees, is ondertussen wel duidelijk. Maar ik vind het ook leuk om lijstjes te maken. Vandaar dat ik ze hier verzamel: mijn lijstjes van aangeraden boeken. Op thema.
 
-Mocht je echt *nu* een boek nodig hebben om te lezen, zou ik CTRL/CMD + F doen en zoeken naar Bill Bryson. Kies zelf het genre maar.
+### Aanbevelingen
+Elk boek op deze pagina heeft de "Approved by Ilse"-sticker. Maar mocht je echt *nu* een boek zoeken om te lezen, zou ik CTRL/CMD + F doen en zoeken naar Bill Bryson. Kies zelf het genre maar. En mocht je een wat persoonlijkere aanbeveling willen, dan moet je me maar een keertje opzoeken. 
 
 ## Non-fictie
 Ik lees ontzettend veel non-fictie in honderdduizend verschillende genres. Hier vind je een overzicht van mijn favoriete genres en mijn aangeraden boeken (niet op specifieke volgorde). Mijn favoriete non-fictie schrijvers? Bill Bryson, Michael Pollan, David Sedaris en Allie Brosh.
