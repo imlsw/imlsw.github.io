@@ -13,7 +13,7 @@ excerpt: De boeken die ik iedereen aanraad.
 In de afgelopen 9 jaar heb ik bijna 700 boeken gelezen. Dat ik graag lees, is ondertussen wel duidelijk. Maar ik vind het ook leuk om lijstjes te maken. Vandaar dat ik ze hier verzamel: mijn lijstjes van aangeraden boeken. Op thema.
 
 ### Aanbevelingen
-Elk boek op deze pagina heeft een "Approved by Ilse"-sticker. Maar mocht je echt *nu* een boek zoeken om te lezen, zou ik CTRL/CMD + F doen en zoeken naar Bill Bryson. Kies zelf het genre maar. En mocht je een wat persoonlijkere aanbeveling willen, dan moet je me maar een keertje opzoeken. 
+Elk boek op deze pagina heeft een "Approved by Ilse"-sticker. Maar mocht je echt *nu* een boek zoeken om te lezen, zou ik CTRL/CMD + F doen en zoeken naar Bill Bryson. Kies zelf het genre maar. En mocht je een wat persoonlijkere aanbeveling willen, dan moet je me maar een keertje opzoeken.
 
 ## Non-fictie
 Ik lees ontzettend veel non-fictie in honderdduizend verschillende genres. Hier vind je een overzicht van mijn favoriete genres en mijn aangeraden boeken (niet op specifieke volgorde). Mijn favoriete non-fictie schrijvers? Bill Bryson, Michael Pollan, David Sedaris en Allie Brosh.
@@ -68,9 +68,6 @@ Allie Brosh
 *[American Harvest: God, Country, and Farming in the Heartland](https://www.goodreads.com/book/show/45892225-american-harvest)* \
 Marie Mutsuki Mockett
 
-*[There Are No Grown-ups: A Midlife Coming-of-Age Story](https://www.goodreads.com/book/show/36764401-there-are-no-grown-ups)* \
-Pamela Druckerman
-
 *[Educated](https://www.goodreads.com/book/show/35133922-educated)* \
 Tara Westover
 
@@ -92,9 +89,6 @@ Michelle Zauners
 *[Calypso](https://www.goodreads.com/book/show/38348476-calypso)* \
 David Sedaris
 
-*[Things I've Learned from Dying: A Book About Life](https://www.goodreads.com/book/show/17899708-things-i-ve-learned-from-dying)* \
-David R. Dow
-
 *[We're Going to Need More Wine](https://www.goodreads.com/book/show/34884359-we-re-going-to-need-more-wine)* \
 Gabrielle Union
 
@@ -114,17 +108,14 @@ Caitlin Doughty
 *[The Body: A Guide for Occupants](https://www.goodreads.com/book/show/43582376-the-body)* \
 Bill Bryson
 
-*[Into the Magic Shop: A Neurosurgeon's Quest to Discover the Mysteries of the Brain and the Secrets of the Heart](https://www.goodreads.com/book/show/25733658-into-the-magic-shop)* \
-James R. Doty
-
 *[Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think](https://www.goodreads.com/book/show/34890015-factfulness)* \
 Hans Rosling
 
-*[The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains](https://www.goodreads.com/book/show/34237719-the-hacking-of-the-american-mind)* \
-Robert H. Lustig
-
 *[Tribe: On Homecoming and Belonging](https://www.goodreads.com/book/show/28119237-tribe)* \
 Sebastian Junger
+
+*[A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)* \
+Bill Bryson
 
 *[Stiff: The Curious Lives of Human Cadavers](https://www.goodreads.com/book/show/32145.Stiff)* \
 Mary Roach
@@ -134,9 +125,6 @@ Susan Cain
 
 *[The Uninhabitable Earth: Life After Warming](https://www.goodreads.com/book/show/41552709-the-uninhabitable-earth)* \
 David Wallace-Wells
-
-*[A Short History of Nearly Everything](https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything)* \
-Bill Bryson
 
 *[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep)* \
 Matthew Walker
@@ -385,6 +373,9 @@ Mark Z. Danielewski
 
 *[Amazonia](https://www.goodreads.com/book/show/294047.Amazonia)* \
 James Rollins
+
+*[The Cellist](https://www.goodreads.com/book/show/55693186-the-cellist)* \
+Daniel Silva
 
 ### Chuck Klosterman
 *[Raised in Captivity: Fictional Nonfiction](https://www.goodreads.com/book/show/42585299-raised-in-captivity)* \
