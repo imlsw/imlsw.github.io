@@ -4,7 +4,7 @@ title: "NaNoWriMo 2021"
 permalink: /nanowrimo-2021
 categories: [blogs]
 author: Ilse
-excerpt: Van idee naar verhaal: 50.000 woorden in één maand.
+excerpt: Van idee naar verhaal – 50.000 woorden in één maand.
 ---
 
 # NaNoWriMo 2021
