@@ -1,14 +1,13 @@
 ---
 layout: detail
 title: "Mijn favoriete boeken"
+working-title: "Mijn favoriete boeken"
+note: "Oktober 2021"
 permalink: /favoriete-boeken/
-categories: [boeken]
+categories: [blogs]
 author: Ilse
 excerpt: De boeken die ik iedereen aanraad.
 ---
-
-# Mijn favoriete boeken
-<div class="blog-date">Oktober 2021</div>
 
 In de afgelopen 9 jaar heb ik bijna 700 boeken gelezen. Dat ik graag lees, is ondertussen wel duidelijk. Maar ik vind het ook leuk om lijstjes te maken. Vandaar dat ik ze hier verzamel: mijn lijstjes van aangeraden boeken. Op thema.
 

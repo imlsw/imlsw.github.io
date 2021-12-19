@@ -1,13 +1,12 @@
 ---
 layout: detail
 title: "Georgië II — Het land in een notendop"
+working-title: "Het land in een notendop"
+note: "Deel II"
 permalink: /georgie-2
 categories:
 author: Ilse
 ---
-
-# Georgië II — Het land in een notendop
-<div class="disclaimer">Dit artikel is onderdeel van mijn zesdelige serie over Georgië. Als je hier voor het eerst bent, raad ik je aan te beginnen bij <a href="/georgie-1">Georgië I</a>.</div>
 
 Als je naar Georgië gaat, moet je wat dingen weten. "Men" zegt dat Tbilisi (spreek je uit als *te-bi-LIE-sie*), de hoofdstad van Georgië, goed te doen is voor West-Europeanen. Het is een grote stad, er is veel te zien en je komt redelijk uit de voeten met Engels en wat handen-en-voetenwerk. Maar wij vlogen naar Kutaisi, de tweede stad van Georgië. Zonder planning, met nauwelijks voorkennis. In dit artikel wil ik mijn nakennis met jou delen, zodat je in ieder geval weet waar je aan toe bent. En tegerlijkertijd iets over Georgië leert.
 
@@ -20,10 +19,10 @@ In Georgië hebben ze een eigen taal: Georgisch. Georgisch is een taal met een e
 Het Georgisch lijkt een beetje op het Grieks en het Arabisch, maar is geen van beide. Het is sierlijk. Het is oud. En het is onleesbaar voor mensen zoals jij en ik. Op borden langs de weg gebruiken ze —gelukkig— ook de Latijnse naam van de dorpen en steden.
 
 ![Het Georgisch op een bonnetje](/assets/images/blogs/georgie/papavero.jpg)
-<div class="image-description">Ons bonnetje van Papavero. Dit is Georgisch. Plus: 71,5 GEL (€18) voor een tweepersoons diner. Ka-tsjing!</div>
+<div class="image--description">Ons bonnetje van Papavero. Dit is Georgisch. Plus: 71,5 GEL (€18) voor een tweepersoons diner. Ka-tsjing!</div>
 
 ![De straatborden in Georgië](/assets/images/blogs/georgie/koeien-op-de-weg.jpg)
-<div class="image-description">De straatborden van Georgië in twee talen. En koeien langs de weg.</div>
+<div class="image--description">De straatborden van Georgië in twee talen. En koeien langs de weg.</div>
 
 ### En het Engels dan?
 In Georgië spreken ze nauwelijks Engels. De enige mensen bij wie je enig succes zult hebben, is de jongere generatie. Sommige taxichauffeurs snappen ondertussen wat *city centre* of *airport* betekent, maar je zult een klein Georgisch vocabulair moeten opbouwen, want Google Maps snappen ze ook niet.
@@ -32,7 +31,7 @@ In Georgië spreken ze nauwelijks Engels. De enige mensen bij wie je enig succes
 In Georgië betaal je met de Georgische lari, afgekort GEL. Een lari kun je vergelijken met een 1-euromunt. Een lari kun je vervolgens opsplitsten in 100 tetri — vergelijkbaar met onze centen. Voor €1 krijg je ongeveer 3 GEL (lari). In de stad moet je naar een bank om te pinnen en het is even puzzelen, maar de automaten kun je instellen in het Engels.
 
 ![Georgisch geld](/assets/images/blogs/georgie/georgisch-geld.jpg)
-<div class="image-description">130 lari, ofwel €33.</div>
+<div class="image--description">130 lari, ofwel €33.</div>
 
 ### Prijzen
 Georgië wil misschien bij Europa horen, maar Europese prijzen hebben ze niet. Daarom is Georgië een ideaal vakantieland voor de gierige Nederlander. Voor een kop koffie in een restaurant betaal je omgerekend nog geen 30 cent. Premium benzine heb je voor €0,70 per liter. Een luxe huurauto heb je voor €27 per dag. Een taxirit van 30 minuten kost een euro of 3. En het meest uitgebreide, lekkerste driegangenmenu dat we ooit hebben gehad, kostte €12,50 de neus.
@@ -69,13 +68,13 @@ Drama. Niet aan beginnen als je niet met overtuiging en passie kan rijden. Heb j
 De wegen zijn breed. Heel breed. Je moet niet opkijken als je een 3-baansweg voor jezelf hebt. Maar aan markeringen doen ze niet en het asfalt is zeker niet het Nederlandse ZOAB wat je gewend bent. Het zit ook vol gaten. Daarnaast is de kans groot dat je een babushka, koe, varken of hond voor je auto hebt zodra je de stad verlaat. Hetzelfde geldt voor in de stad, trouwens.
 
 ![Koe op de weg II](/assets/images/blogs/georgie/koe-langs-de-weg-ii.jpg)
-<div class="image-description">Alsof het de normaalste zaak van de wereld is.</div>
+<div class="image--description">Alsof het de normaalste zaak van de wereld is.</div>
 
 ![Koe op de weg III](/assets/images/blogs/georgie/koe-langs-de-weg.jpg)
-<div class="image-description">Lekker grazen langs het spoor.</div>
+<div class="image--description">Lekker grazen langs het spoor.</div>
 
 ![Koe op de weg](/assets/images/blogs/georgie/koeien-op-de-weg-ii.jpg)
-<div class="image-description">Op de doorgaande weg. Je mag hier 80.</div>
+<div class="image--description">Op de doorgaande weg. Je mag hier 80.</div>
 
 
 Wil je rijden in Georgië? Dan raad ik je eerst aan om 'het rijden op hart in plaats van hoofd' te oefenen in een Zuid-Italiaanse stad. Hoewel het wennen was, konden wij onze draai wel vinden in het verkeer. Gewoon gaan met die banaan.
@@ -98,7 +97,7 @@ Verder haal je je water bij de supermarkt, want drinken uit de kraan is geen goe
 Straathonden komen voor in Georgië. Als in: complete roedels. Niet aaien, want hondsdolheid komt óók voor. Daarnaast: die beesten zijn niet heel hygiënisch. Sommige honden zijn gesteriliseerd en gechipt (geel oormerk), maar dat is echt de minderheid. Hopelijk heb je een redelijk geluidsdichte accommodatie, want ze blaffen graag, ook 's nachts.
 
 ![Straathonden in Georgië](/assets/images/blogs/georgie/straathonden.jpg)
-<div class="image-description">Straathonden voor onze flat.</div>
+<div class="image--description">Straathonden voor onze flat.</div>
 
 Dit is een minder leuke melding, maar ga niet naar Georgië als je PETA-campagnes niet aankan. In de stad valt het wel mee, maar zodra je de stad uitrijdt.. Wij hadden in ieder geval nog nooit zoiets gezien. Graatmagere honden. Dan spreken we niet over één rib, maar over lopende skeletten die op het puntje van sterven staan. Honden waarvan je weet dat ze de volgende dag niet halen. En soms al dood zijn.
 
@@ -109,4 +108,4 @@ Hartbrekend. Maar ook de Georgische realiteit.
 ### Meenemen vanuit Nederland
 Medicijnen. Paracetamol voor je standaard pijntjes, diarreeremmers voor een verkeerde maaltijd. *Better safe than sorry.* In het Georgisch ga je je namelijk niet redden bij de apotheek.
 
-[Naar Georgië III — Het loopt allemaal in de soep](/georgie-3)
+Lees verder: <a class="chapter--next" href="/georgie-3">Het loopt allemaal in de soep</a>

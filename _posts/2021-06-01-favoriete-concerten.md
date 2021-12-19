@@ -1,14 +1,13 @@
 ---
 layout: detail
 title: "Favoriete concerten"
+working-title: "Mijn favoriete concerten aller tijden (tot nu toe)"
+note: "Juni 2021"
 permalink: /favoriete-concerten
 categories: [blogs]
 author: Ilse
 excerpt: Terugblik op de beste shows die ik tot nu toe heb gezien.
 ---
-
-# Mijn favoriete concerten aller tijden (tot nu toe)
-<div class="blog-date">Juni 2021</div>
 
 Concerten. Ondertussen mis ik ze wel een beetje hoor. De blijdschap wanneer je hoort dat je favoriete artiest in de buurt optreedt. De spanning of je wel of geen kaartje kunt bemachtigen. De voorpret van welke nummers er gespeeld zullen worden. Het ontdekken van het voorprogramma. Het aftellen tot de dag zelf. Het drie keer kijken of je daadwerkelijk het juiste ticket mee hebt. En dan de show..
 
@@ -63,7 +62,7 @@ Tijdens Rock Werchter 2013 speelden ze misschien wel de meest perfecte setlist d
 In de ArenA hebben ze me laten zien dat ze het in zich hebben, op Rock Werchter werd ik fan. Het hoogtepunt? Het slotnummer *Mountains*, wat tevens een van mijn favoriete Biffy nummers is. [Hier spelen ze het nummer live tijdens Reading 2013](https://www.youtube.com/watch?v=UdifHR-hKRw), dat geeft de sfeer wel een beetje aan. Dat er nog longen in mijn lijf zaten toen ik de tent eindelijk uitliep, verbaast me tot de dag van vandaag.
 
 ![Biffy Clyro tijdens Lowlands](/assets/images/blogs/concerten/07-biffy.jpg)
-<div class="image-description">Biffy Clyro later die zomer tijdens Lowlands 2013. Gemaakt met mijn aardappeltelefoon.</div>
+<div class="image--description">Biffy Clyro later die zomer tijdens Lowlands 2013. Gemaakt met mijn aardappeltelefoon.</div>
 
 ## Bloc Party, Rock Werchter 2013
 Bloc Party heeft een bijzondere plek in mijn concertgeschiedenis. Het gaat bij mij de boeken in als de beste én slechtste act die ik tot nu toe heb gezien. Ik bedoel, er zijn weinig artiesten die dit kunnen halen. Enfin, we gaan het voor nu hebben over hun beste optreden: Rock Werchter 2013.
@@ -75,7 +74,7 @@ In 2012 zag ik Bloc Party op Lowlands en [het was feest](https://www.youtube.com
 PS: Hun slechtste optreden? 15 oktober 2018 in AFAS Live. Dat optreden was nog slechter dan BØRNS op Lowlands 2018.
 
 ![Bloc Party tijdens Lowlands](/assets/images/blogs/concerten/09-bloc-party.JPG)
-<div class="image-description">Bloc Party tijdens Lowlands 2012.</div>
+<div class="image--description">Bloc Party tijdens Lowlands 2012.</div>
 
 ## Editors, Lowlands 2013
 We gaan weer terug naar de polder. Had ik al gezegd dat 2013 een goed jaar was om festivals te doen? Alle goede bands van dat moment waren op tour en ik denk niet dat we ook maar een druppeltje regen hebben gehad op festivals dat jaar.
@@ -92,7 +91,7 @@ De setlist was goed. Het publiek had het warm, maar had er zin in. Dus hebben we
 Ik bedenk me nu pas dat we dat jaar wél regen hebben gehad op festivals. Een enorme stortbui tijdens Slayer op de vrijdagavond. Toen hebben we ons tentje moeten ontdoen van 3cm water. Nu kan ik er om lachen, maar toen was het om te huilen.
 
 ![Plassen water voor de Heineken op Lowlands](/assets/images/blogs/concerten/23-regen.jpg)
-<div class="image-description">In 2019 regende het ook tijdens Lowlands. Er was zulk slecht weer voorspelt, dat mensen in de dagen ervoor hun kaarten verkochten voor €150 (originele prijs €220,– om maar niet naar een 'potentiële Glastonbury' te hoeven). Het regende in totaal 30 minuten dat weekend. Het was een fikse bui, maar mensen zijn gewoon maf.</div>
+<div class="image--description">In 2019 regende het ook tijdens Lowlands. Er was zulk slecht weer voorspelt, dat mensen in de dagen ervoor hun kaarten verkochten voor €150 (originele prijs €220,– om maar niet naar een 'potentiële Glastonbury' te hoeven). Het regende in totaal 30 minuten dat weekend. Het was een fikse bui, maar mensen zijn gewoon maf.</div>
 
 ## The War On Drugs, Lowlands 2018
 We nemen een sprong richting het heden. Tussen 2013 en 2018 heb ik eigenlijk nauwelijks concerten bezocht. Het zat er gewoon niet in. Ik was druk met school (en vervolgens werk), had geen geld en geen zin (en ook eigenlijk geen vrienden die met me meewilden maar dat terzijde). En alleen gaan durfde ik ook niet zo goed. Totdat ik in 2015 naar *Into The Great Wide Open* mocht, want daar liep ik stage en ze hadden een ticket en campingplek voor me gereserveerd (de schatten). Sindsdien vind ik het geen probleem om mezelf mee te nemen naar concerten en festivals. Het is eigenlijk best wel prima.
@@ -116,58 +115,58 @@ Hopelijk weer een beetje het begin van de pre-2013 concertenreeks. Ik heb er zin
 Omdat er best een aantal mensen zijn die nog nooit een concert en/of festival hebben meegemaakt, presenteer ik hier: een deel van mijn fotoarchief. Niet de beste foto's, maar het geeft wel een indruk.
 
 ![De Alpha-tent](/assets/images/blogs/concerten/03-tent.jpg)
-<div class="image-description">De meest beruchte tent in dit verhaal: de Alpha (anno 2011).</div>
+<div class="image--description">De meest beruchte tent in dit verhaal: de Alpha (anno 2011).</div>
 
 ![Feesten in de 24-uurstent](/assets/images/blogs/concerten/02-bar.jpg)
-<div class="image-description">De 24uurstent op Lowlands, toen 'ie nog bestond. Altijd een feestje als je niks te doen had, een hel als je probeerde te slapen. In 2017 vervangen voor het 24uursterrein: de ArmadiLLow.</div>
+<div class="image--description">De 24uurstent op Lowlands, toen 'ie nog bestond. Altijd een feestje als je niks te doen had, een hel als je probeerde te slapen. In 2017 vervangen voor het 24uursterrein: de ArmadiLLow.</div>
 
 ![Tai chi tijdens Lowlands](/assets/images/blogs/concerten/06-tai-chi.JPG)
-<div class="image-description">Een lesje tai chi (gezondheid!) tijdens Lowlands. Het eerste jaar durfden we niet echt mee te doen, maar nu is het vaste prik (ondertussen doen ze geen tai chi meer, maar yoga).</div>
+<div class="image--description">Een lesje tai chi (gezondheid!) tijdens Lowlands. Het eerste jaar durfden we niet echt mee te doen, maar nu is het vaste prik (ondertussen doen ze geen tai chi meer, maar yoga).</div>
 
 ![Skrillex op Lowlands](/assets/images/blogs/concerten/01-skrillex.jpg)
-<div class="image-description">Skrillex in de Alpha tijdens Lowlands 2011.</div>
+<div class="image--description">Skrillex in de Alpha tijdens Lowlands 2011.</div>
 
 ![Een glas rosébier](/assets/images/blogs/concerten/05-rose.JPG)
-<div class="image-description">Ik lustte geen bier tot 2014: op Rock Werchter dronk ik vooral rosébier.</div>
+<div class="image--description">Ik lustte geen bier tot 2014: op Rock Werchter dronk ik vooral rosébier.</div>
 
 ![Lowlands na zonsondergang](/assets/images/blogs/concerten/08-lowlands.JPG)
-<div class="image-description">Goede tijden: de Alpha tijdens zonsondergang. Met dit uitzicht sta je op de heuvel. Het terrein van de Alpha blijft een van mijn favoriete plekken.</div>
+<div class="image--description">Goede tijden: de Alpha tijdens zonsondergang. Met dit uitzicht sta je op de heuvel. Het terrein van de Alpha blijft een van mijn favoriete plekken.</div>
 
 ![Ed Sheeran](/assets/images/blogs/concerten/13-ed-sheeran.JPG)
-<div class="image-description">Toen je nog vooraan kon staan bij Ed Sheeran (Lowlands 2012).</div>
+<div class="image--description">Toen je nog vooraan kon staan bij Ed Sheeran (Lowlands 2012).</div>
 
 ![Mensen kijken op een festivalterrein](/assets/images/blogs/concerten/10-bar-le-duc.jpg)
-<div class="image-description">Kiekje van de zijlijn. Hetzelfde jaar (2012) waren Bar Le Duc-pakken echt helemaal hip op het festivalterrein (want je mocht geen flesjes mee en het was warm).</div>
+<div class="image--description">Kiekje van de zijlijn. Hetzelfde jaar (2012) waren Bar Le Duc-pakken echt helemaal hip op het festivalterrein (want je mocht geen flesjes mee en het was warm).</div>
 
 ![Dave Grohl en zijn band op het podium](/assets/images/blogs/concerten/11-foo-fighters.JPG)
-<div class="image-description">Kiezen of delen: tweeënhalf uur Foo Fighters of tweeënhalf uur Wilco? Toch maar voor de Foo Fighters gegaan. Worth it. Kandidaat voor mijn lijst der lijsten als ik daadwerkelijk van Foo Fighters had gehouden. <a href="https://www.youtube.com/watch?v=vnbTPWWy1h8" target="blank">Maar het concert was wel echt gruwelijk</a>.</div>
+<div class="image--description">Kiezen of delen: tweeënhalf uur Foo Fighters of tweeënhalf uur Wilco? Toch maar voor de Foo Fighters gegaan. Worth it. Kandidaat voor mijn lijst der lijsten als ik daadwerkelijk van Foo Fighters had gehouden. <a href="https://www.youtube.com/watch?v=vnbTPWWy1h8" target="blank">Maar het concert was wel echt gruwelijk</a>.</div>
 
 ![Lege tent](/assets/images/blogs/concerten/14-grolsch.jpg)
-<div class="image-description">Deze komt uit mijn analoge fase, want na 3 jaar heb je de meeste kiekjes wel gemaakt. Toen de Heineken nog de Grolsch heette (2013).</div>
+<div class="image--description">Deze komt uit mijn analoge fase, want na 3 jaar heb je de meeste kiekjes wel gemaakt. Toen de Heineken nog de Grolsch heette (2013).</div>
 
 ![Publiek tijdens Rock en Seine](/assets/images/blogs/concerten/15-rock-en-seine.jpg)
-<div class="image-description">Ook uit mijn analoge fase, een week later. Wachtend publiek voor een optreden in hartje Parijs.</div>
+<div class="image--description">Ook uit mijn analoge fase, een week later. Wachtend publiek voor een optreden in hartje Parijs.</div>
 
 ![Wachtend publiek](/assets/images/blogs/concerten/12-publiek.JPG)
-<div class="image-description">Lekker wachten in de Alpha met z'n allen.</div>
+<div class="image--description">Lekker wachten in de Alpha met z'n allen.</div>
 
 ![Kijken naar de menigte](/assets/images/blogs/concerten/16-intermezzo.jpg)
-<div class="image-description">Wat te doen als je even de tijd wilt doden op Lowlands? Kijken hoe kapot mensen over de brug heenkomen. Letterlijk of figuurlijk, want er sneuvelden jaarlijks tientallen tassen en koffers. Verleden tijd, want tegenwoordig hebben ze een viaduct.</div>
+<div class="image--description">Wat te doen als je even de tijd wilt doden op Lowlands? Kijken hoe kapot mensen over de brug heenkomen. Letterlijk of figuurlijk, want er sneuvelden jaarlijks tientallen tassen en koffers. Verleden tijd, want tegenwoordig hebben ze een viaduct.</div>
 
 ![Avondconcert](/assets/images/blogs/concerten/17-itgwo.JPG)
-<div class="image-description">Het optreden van Elias in het bos tijdens <i>Into The Great Wide Open.</i> (2015)</div>
+<div class="image--description">Het optreden van Elias in het bos tijdens <i>Into The Great Wide Open.</i> (2015)</div>
 
 ![Festivalsfeer](/assets/images/blogs/concerten/21-lopen.JPG)
-<div class="image-description">Publiek tijdens Lowlands (2019). Zo zien de avonden eruit. Het koelt langzaam af en het publiek verdeelt zich over het terrein. Dit zijn wel de mooiste momenten om gewoon even rond te lopen.</div>
+<div class="image--description">Publiek tijdens Lowlands (2019). Zo zien de avonden eruit. Het koelt langzaam af en het publiek verdeelt zich over het terrein. Dit zijn wel de mooiste momenten om gewoon even rond te lopen.</div>
 
 ![De Alpha-tent voor het optreden van de Gorillaz](/assets/images/blogs/concerten/18-alpha.JPG)
-<div class="image-description">De nieuwe Alpha-tent Foto genomen in 2018, net voor het optreden van Gorillaz.</div>
+<div class="image--description">De nieuwe Alpha-tent Foto genomen in 2018, net voor het optreden van Gorillaz.</div>
 
 ![Leegte bij de Alpha](/assets/images/blogs/concerten/22-leegte.jpg)
-<div class="image-description">Het is niet altijd druk op het terrein. Dit is vrijdagsochtend (eerste dag) net na de opening van het terrein. Wanneer het nog veilig is om op het gras te zitten.</div>
+<div class="image--description">Het is niet altijd druk op het terrein. Dit is vrijdagsochtend (eerste dag) net na de opening van het terrein. Wanneer het nog veilig is om op het gras te zitten.</div>
 
 ![De Bravo-tent in de avond](/assets/images/blogs/concerten/19-bravo.JPG)
-<div class="image-description">Lowlands' relatief nieuwe Bravo-tent (inwijding in 2017, foto tijdens de silent disco van de donderdagavond in 2019).</div>
+<div class="image--description">Lowlands' relatief nieuwe Bravo-tent (inwijding in 2017, foto tijdens de silent disco van de donderdagavond in 2019).</div>
 
 ![Publiek na een optreden](/assets/images/blogs/concerten/20-publiek.JPG)
-<div class="image-description">Tijdens een concert N*E*R*D (Lowlands 2018).</div>
+<div class="image--description">Tijdens een concert N*E*R*D (Lowlands 2018).</div>

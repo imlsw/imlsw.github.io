@@ -1,13 +1,12 @@
 ---
 layout: detail
 title: "Georgië III — Het loopt allemaal in de soep"
+working-title: "Het loopt allemaal in de soep"
+note: "Deel III"
 permalink: /georgie-3
 categories:
 author: Ilse
 ---
-
-# Georgië III — Het loopt allemaal in de soep
-<div class="disclaimer">Dit artikel is onderdeel van mijn zesdelige serie over Georgië. Als je hier voor het eerst bent, raad ik je aan te beginnen bij <a href="/georgie-1">Georgië I</a>.</div>
 
 We waren van 15 tot 19 oktober 2019 in Kutaisi, Georgië. Een reis die in totaal 5 dagen duurde, waarvan we 3 volle dagen in het land waren.
 
@@ -19,7 +18,7 @@ Vliegen naar Georgië duurt zo'n vierenhalf uur vanaf Nederland. We vlogen 's wo
 Omdat we zo kort op vakantie gingen, hadden we geen geld gestoken in het meenemen van een koffer. Al onze voorzieningen zaten in twee tassen van 40x30x20cm. Michael's oude Eastpak rugtas, mijn kleine Adidas dufflebag. Inhoud: nieuw setje kleren, tandenborstel, onderbroek, waterfles en wat entertainment voor in het vliegtuig (e-reader, koptelefoon). En omdat we met een budgetmaatschappij vlogen rond etenstijd, hadden we veel snacks bij ons. Het paste precies.
 
 ![Mijn bagage op tafel in huis](/assets/images/blogs/georgie/bagage.jpg)
-<div class="image-description">Mijn bagage: een volle tas, een lege waterfles, een jas en een sjaal, mijn go-to item voor reizen (want multifunctioneel: dekentje, kussentje, voetensteun, picknickdeken, tijdelijke mega-tas, handdoek om je handen aan af te drogen wanneer de doekjes op zijn..). En mijn OV-kaart, want Michael kwam vanuit zijn werk in Utrecht en ik vanuit ons huis in Nijmegen.</div>
+<div class="image--description">Mijn bagage: een volle tas, een lege waterfles, een jas en een sjaal, mijn go-to item voor reizen (want multifunctioneel: dekentje, kussentje, voetensteun, picknickdeken, tijdelijke mega-tas, handdoek om je handen aan af te drogen wanneer de doekjes op zijn..). En mijn OV-kaart, want Michael kwam vanuit zijn werk in Utrecht en ik vanuit ons huis in Nijmegen.</div>
 
 In het vliegtuig zagen we pas hoeveel mensen er op een doodgewone woensdag naar Kutaisi vliegen. Op de een of andere manier hadden ze het voor elkaar gekregen om de vlucht vol te krijgen. Hoe? Geen idee.
 
@@ -50,13 +49,13 @@ We hadden een blaadje met ons adres: Javakhishvili met een huisnummer. Maar dat 
 Het was ondertussen half 2 's nachts en daar stonden we, met z'n tweeën in een verlaten buurt ergens in een onbekende stad in Eurazië. Het was donker en we werden omringd door straathonden en gebouwen die leken alsof ze sinds de val van de Sovjet-Unië niet meer bewoond waren. Guur? Ja. Creepy? Een beetje. Onveilig? Moesten we nog achter komen.
 
 ![In het donker I](/assets/images/blogs/georgie/in-het-donker-1.jpg)
-<div class="image-description">Waar we werden afgezet.</div>
+<div class="image--description">Waar we werden afgezet.</div>
 
 ![In het donker II](/assets/images/blogs/georgie/in-het-donker-2.jpg)
-<div class="image-description">We liepen maar wat rond.</div>
+<div class="image--description">We liepen maar wat rond.</div>
 
 ![In het donker III](/assets/images/blogs/georgie/in-het-donker-3.jpg)
-<div class="image-description">Misschien een beetje verdwaald..</div>
+<div class="image--description">Misschien een beetje verdwaald..</div>
 
 ### De redder in nood
 Dus we zijn de huizen afgelopen in de hoop dat we ergens het juiste huisnummer vonden. We hebben de straat drie keer afgelopen, waarbij we zelfs bij een militair politiebureau hebben aangeklopt of ze ons konden helpen. Die arme gasten wisten van niks. "Ja, ga maar links." Uhu.
@@ -77,7 +76,7 @@ Glimmende vloeren. Een enorme leren bank. Een keuken met bar. En alles spik en s
 "This is my sister's secondary home. She stays here when she's back from Germany, where she studies and works."
 
 ![Ons appartement](/assets/images/blogs/georgie/ons-appartement.jpg)
-<div class="image-description">De bank, de bar en onze bagage.</div>
+<div class="image--description">De bank, de bar en onze bagage.</div>
 
 Dus dát is wat de Georgische jeugd blijkbaar doet. Die zijn niet gek. Die weten: "Hier wordt het helemaal niks" en vluchten naar het buitenland voor een studie en/of werk. Vervolgens verdienen ze daar in een week wat ze in Georgië in een maand zouden verdienen. Dat geld investeren ze vervolgens in een goedkoop appartement in de buurt van hun ouders. Om het vervolgens te verhuren voor (Europees) goedkope prijzen (€22/nacht) aan toeristen.
 
@@ -85,4 +84,4 @@ In een kwartier legde David uit hoe het appartement werkte. Toen gaf hij ons de 
 
 Eenmaal in de ochtend konden we écht zien waar we waren beland.
 
-[Naar Georgië IV — Een eerste indruk](/georgie-4)
+Lees verder: <a class="chapter--next" href="/georgie-4">Een eerste indruk</a>

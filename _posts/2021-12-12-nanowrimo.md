@@ -1,14 +1,13 @@
 ---
 layout: detail
 title: "NaNoWriMo 2021"
+working-title: "NaNoWriMo 2021"
+note: December 2021
 permalink: /nanowrimo-2021
 categories: [blogs]
 author: Ilse
-excerpt: Van idee naar verhaal – 50.000 woorden in één maand.
+excerpt: Van idee naar verhaal - 50.000 woorden in een maand.
 ---
-
-# NaNoWriMo 2021
-<div class="blog-date">December 2021</div>
 
 Dit jaar deed ik mee aan de National November Writing Month, ofwel NaNoWriMo. Een Amerikaans evenement dat al jarenlang elke novembermaand plaatsvind. Het doel? 50.000 woorden schrijven in een maand. Geen 'af' verhaal, maar een eerste draft.
 
