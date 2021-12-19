@@ -4,17 +4,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
     <meta name="keywords" content="ilse, l&#246;bker, lobker, loebker">
-    <meta name="description" content="Een 27-jarige jongedame schrijft over haar leven.">
+    <meta name="description" content="Een 28-jarige jongedame schrijft over haar leven.">
     <title>{{ site.title }} | {{ page.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
   </head>
   <body>
     <div id="container">
-      {% include navigation.html %}
+      <div id="navigation">
+        <div class="navigation--previous">
+          <a href="/notes">Terug</a>
+        </div>
+      </div>
 
-      <div class="content">
+      <p class="note--subtitle"> {{ page.note }}</p>
+      <h1 class="note--title">{{ page.working-title }}</h1>
+      <p class="introduction">{{ page.intro}}</p>
+
+      <div class="content--detail">
         {{ content }}
       </div>
+
+      {% include footer.html %}
     </div>
   </body>
 </html>

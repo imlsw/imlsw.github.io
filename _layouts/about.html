@@ -10,9 +10,23 @@
   </head>
   <body>
     <div id="container">
-      <div class="content">
+      <div id="navigation">
+        <div class="navigation--previous">
+          <a href="{{ page.previous-page-url }}">{{ page.previous-page-title }}</a>
+        </div>
+        <div class="navigation--next">
+          <a href="{{ page.next-page-url }}">{{ page.next-page-title }}</a>
+        </div>
+      </div>
+
+      <h1 class="page--title">{{ page.title }}</h1>
+      <p class="introduction">{{ page.intro}}</p>
+
+      <div class="content--detail">
         {{ content }}
       </div>
+
+      {% include footer.html %}
     </div>
   </body>
 </html>
