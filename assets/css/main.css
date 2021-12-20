@@ -5,10 +5,6 @@
 /* Container */
 #container { margin: 0; padding: 0 26px; }
 
-.column--indent { margin-left: 76px; }
-
-.column--indent--description { max-width: 50vw; }
-
 /* Typography */
 h1 { font-family: "Sora", "Helvetica", sans-serif; font-size: 224px; line-height: 1; letter-spacing: -13px; text-transform: lowercase; color: #E53D08; }
 
@@ -100,13 +96,18 @@ body { background: #F7F7F7; font-family: "Crimson Pro", "Times", "Times New Roma
 .note--title { font-family: "Sora", "Helvetica", sans-serif; font-size: 171px; line-height: 1; letter-spacing: -10px; text-transform: lowercase; color: #E53D08; margin: 0 0 26px 131px; }
 
 @media screen and (min-width: 1921px) { #container { margin: 0vw 25vw; max-width: 49vw; }
-  h2 { margin-left: 0; }
-  h3 { margin-left: 8vw; }
+  h1 { max-width: 100%; }
+  h2 { margin-left: 0; max-width: 100%; }
+  h3 { max-width: 100%; margin-left: 8vw; }
   .page--title { margin-left: 0; }
-  .introduction { margin-left: 0; max-width: 100%; }
-  .content--detail p { margin: 0 8vw; max-width: 100%; }
-  .content--detail img { width: 120%; margin-left: -10%; }
-  .image--description { max-width: 100%; margin-top: 0; margin-left: 8vw; }
+  .note--title { margin-left: 0; }
+  .note--subtitle { margin-left: 0; }
+  .introduction { margin-left: 0; max-width: 50%; }
+  .content--detail p { margin-left: 8vw; margin-right: 8vw; max-width: 100%; }
+  .content--detail img { width: 200%; margin-left: -50%; }
+  .image--description { max-width: 30vw; margin-top: 0; margin-left: 8vw; }
+  .content--detail ul { margin-left: 8vw; max-width: 100%; }
+  .content--detail ol { margin-left: 8vw; max-width: 100%; }
   .content--detail table { margin-left: 8vw; } }
 
 @media screen and (min-width: 412px) and (max-width: 1000px) { #container { padding: 0 15px; max-width: 99vw; }
