@@ -23,13 +23,9 @@ body { background: #F7F7F7; font-family: "Crimson Pro", "Times", "Times New Roma
 
 .menu--item { font-family: "Sora", "Helvetica", sans-serif; font-size: 224px; line-height: 0.8; letter-spacing: -13px; text-transform: lowercase; text-shadow: -1px -1px 0 #E53D08, 0 -1px 0 #E53D08, 1px -1px 0 #E53D08, 1px 0 0 #E53D08, 1px 1px 0 #E53D08, 0 1px 0 #E53D08, -1px 1px 0 #E53D08; }
 
-.menu--item--projects:hover:after { content: url(/assets/images/site/technologist.png); display: inline-block; margin-left: 24px; height: 120px; }
-
 .menu--item--notes:hover:after { content: url(/assets/images/site/note.png); display: inline-block; margin-left: 24px; height: 120px; }
 
 .menu--item--about:hover:after { content: url(/assets/images/site/mirror.png); display: inline-block; margin-left: 24px; height: 120px; }
-
-.menu--item--damn:hover:after { content: url(/assets/images/site/rocket.png); display: inline-block; margin-left: 24px; height: 120px; }
 
 /* Navigation */
 #navigation { height: 76px; padding: 20px 0; }
@@ -45,7 +41,7 @@ body { background: #F7F7F7; font-family: "Crimson Pro", "Times", "Times New Roma
 /* Footer */
 #footer { margin: 26px 0; }
 
-.smallest--copy { font-family: "Piazzolla", "Times", "Times New Roman", serif; font-size: 15px; line-height: 1; color: #251C1C; text-align: center; }
+.footer--copy { font-family: "Piazzolla", "Times", "Times New Roman", serif; font-size: 15px; line-height: 1; color: #251C1C; text-align: center; }
 
 /* Pages */
 .content--detail { margin-bottom: 131px; }
@@ -74,9 +70,9 @@ body { background: #F7F7F7; font-family: "Crimson Pro", "Times", "Times New Roma
 
 .page--title { margin: 0 131px 26px 131px; }
 
-.note--subtitle { font-family: "Newsreader", "Times", "Times New Roman", serif; font-size: 45px; color: #C4C4C4; letter-spacing: -2px; text-transform: lowercase; margin: 0 0 15px 131px; }
-
 .introduction { font-family: "Newsreader", "Times", "Times New Roman", serif; font-size: 45px; font-weight: 300; line-height: 1.1; letter-spacing: -1px; color: #251C1C; margin: 0 0 131px 131px; max-width: 50vw; }
+
+.note--subtitle { font-family: "Newsreader", "Times", "Times New Roman", serif; font-size: 45px; color: #C4C4C4; letter-spacing: -2px; text-transform: lowercase; margin: 0 0 15px 131px; }
 
 /* Notes */
 .all--notes { margin: 0; list-style: none; }
