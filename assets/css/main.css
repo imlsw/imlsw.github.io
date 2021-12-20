@@ -99,7 +99,17 @@ body { background: #F7F7F7; font-family: "Crimson Pro", "Times", "Times New Roma
 
 .note--title { font-family: "Sora", "Helvetica", sans-serif; font-size: 171px; line-height: 1; letter-spacing: -10px; text-transform: lowercase; color: #E53D08; margin: 0 0 26px 131px; }
 
-@media screen and (min-width: 601px) and (max-width: 1000px) { #container { padding: 0 15px; max-width: 99vw; }
+@media screen and (min-width: 1921px) { #container { margin: 0vw 25vw; max-width: 49vw; }
+  h2 { margin-left: 0; }
+  h3 { margin-left: 8vw; }
+  .page--title { margin-left: 0; }
+  .introduction { margin-left: 0; max-width: 100%; }
+  .content--detail p { margin: 0 8vw; max-width: 100%; }
+  .content--detail img { width: 120%; margin-left: -10%; }
+  .image--description { max-width: 100%; margin-top: 0; margin-left: 8vw; }
+  .content--detail table { margin-left: 8vw; } }
+
+@media screen and (min-width: 412px) and (max-width: 1000px) { #container { padding: 0 15px; max-width: 99vw; }
   #navigation { height: 76px; padding: 20px 0; }
   #navigation a { font-size: 26px; }
   h1 { font-size: 131px; letter-spacing: -4px; overflow-wrap: break-word; }
@@ -129,7 +139,7 @@ body { background: #F7F7F7; font-family: "Crimson Pro", "Times", "Times New Roma
   .content--detail table { margin-left: 54px; }
   .content--detail th { margin-left: 54px; } }
 
-@media screen and (max-width: 600px) and (orientation: portrait) { #container { padding: 0 15px; max-width: 99vw; }
+@media screen and (max-width: 411px) and (orientation: portrait) { #container { padding: 0 15px; max-width: 99vw; }
   #navigation { height: 45px; padding: 15px 0; }
   #navigation a { font-size: 20px; }
   h1 { font-size: 76px; letter-spacing: -4px; overflow-wrap: break-word; }
