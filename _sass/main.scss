@@ -82,14 +82,13 @@ body {
 .menu {
   margin-top: $elegant;
 }
-.menu a {
-  text-decoration: none;
-  color: $clouds-of-grey;
-}
-
-.menu a:hover {
-  color: $fiery-red;
-}
+  .menu a {
+    text-decoration: none;
+    color: $clouds-of-grey;
+  }
+  .menu a:hover {
+    color: $fiery-red;
+  }
 
 .menu--item {
   font-family: $dont-be-so-bold;
@@ -106,30 +105,14 @@ body {
      0    1px 0 $fiery-red,
     -1px  1px 0 $fiery-red,
 }
-
-.menu--item--projects:hover:after {
-   content: url(/assets/images/site/technologist.png);
-   display: inline-block;
-   margin-left: 24px;
-   height: 120px;
-}
-
 .menu--item--notes:hover:after {
    content: url(/assets/images/site/note.png);
    display: inline-block;
    margin-left: 24px;
    height: 120px;
 }
-
 .menu--item--about:hover:after {
    content: url(/assets/images/site/mirror.png);
-   display: inline-block;
-   margin-left: 24px;
-   height: 120px;
-}
-
-.menu--item--damn:hover:after {
-   content: url(/assets/images/site/rocket.png);
    display: inline-block;
    margin-left: 24px;
    height: 120px;
@@ -139,27 +122,24 @@ body {
 #navigation {
   height: $collosal;
   padding: $compact 0;
-}
-#navigation a {
-  font-family: $got-some-fancy-text;
-  font-size: $typical;
-  font-weight: $light;
-  text-transform: lowercase;
-  text-decoration: none;
-  color: $heavy-metal-grey;
-}
-
-#navigation a:hover {
-  color: $paint-it-black;
-  text-decoration: underline;
-  text-decoration-skip: ink;
-}
-
+  }
+  #navigation a {
+    font-family: $got-some-fancy-text;
+    font-size: $typical;
+    font-weight: $light;
+    text-transform: lowercase;
+    text-decoration: none;
+    color: $heavy-metal-grey;
+  }
+  #navigation a:hover {
+    color: $paint-it-black;
+    text-decoration: underline;
+    text-decoration-skip: ink;
+  }
 .navigation--previous {
   float: left;
   text-align: left;
 }
-
 .navigation--next {
   float: right;
   text-align: right;
@@ -169,8 +149,7 @@ body {
 #footer {
   margin: $typical 0;
 }
-
-.smallest--copy {
+.footer--copy {
   font-family: $italian-pizza-text;
   font-size: $petite;
   line-height: 1;
@@ -187,19 +166,17 @@ body {
   margin-left: 25vw;
   max-width: 47.5vw;
 }
-
-.content--detail p a {
-  text-decoration: none;
-  color: $fiery-red;
-  background: $mighty-red;
-  padding: 4px 4px;
-  border-radius: 2px;
-}
-
-.content--detail p a:hover {
-  text-decoration: underline;
-  text-decoration-skip: ink;
-}
+  .content--detail p a {
+    text-decoration: none;
+    color: $fiery-red;
+    background: $mighty-red;
+    padding: 4px 4px;
+    border-radius: 2px;
+  }
+  .content--detail p a:hover {
+    text-decoration: underline;
+    text-decoration-skip: ink;
+  }
 
 .content--detail ul {
   margin-top: $grand;
@@ -207,14 +184,12 @@ body {
   margin-left: 24.5vw;
   max-width: 45vw;
 }
-
 .content--detail ol {
   margin-top: $grand;
   margin-bottom: $grand;
   margin-left: 24.5vw;
   max-width: 45vw;
 }
-
 .content--detail li {
   margin-top: 16px;
 }
@@ -226,7 +201,6 @@ body {
   margin-left: 25vw;
   max-width: 50vw;
 }
-
 .content--detail th {
   background: $mighty-red;
   border-radius: 2px;
@@ -239,7 +213,6 @@ body {
   margin-top: $collosal;
   margin-left: -12vw;
 }
-
 .image--description {
   font-family: $italian-pizza-text;
   font-size: $petite;
@@ -251,25 +224,14 @@ body {
 }
 
 .chapter--next {}
-
   .chapter--next:hover {
-    text-decoration: underline;
-    text-decoration-skip: ink;
-  }
+  text-decoration: underline;
+  text-decoration-skip: ink;
+}
 
 .page--title {
   margin: 0 $humongous $typical $humongous;
 }
-
-.note--subtitle {
-  font-family: $got-some-fancy-text;
-  font-size: $elegant;
-  color: $silver-grey;
-  letter-spacing: -2px;
-  text-transform: lowercase;
-  margin: 0 0 $petite $humongous;
-}
-
 .introduction {
   font-family: $got-some-fancy-text;
   font-size: $elegant;
@@ -279,6 +241,14 @@ body {
   color: $paint-it-black;
   margin: 0 0 $humongous $humongous;
   max-width: 50vw;
+}
+.note--subtitle {
+  font-family: $got-some-fancy-text;
+  font-size: $elegant;
+  color: $silver-grey;
+  letter-spacing: -2px;
+  text-transform: lowercase;
+  margin: 0 0 $petite $humongous;
 }
 
 /* Notes */
