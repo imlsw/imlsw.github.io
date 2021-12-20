@@ -5,9 +5,9 @@ $dont-be-so-bold: 'Sora', 'Helvetica', sans-serif;
 $got-some-fancy-text: 'Newsreader', 'Times', 'Times New Roman', serif;
 $old-school-body: 'Crimson Pro', 'Times', 'Times New Roman', serif;
 $italian-pizza-text: 'Piazzolla', 'Times', 'Times New Roman', serif;
-$light: 300;
-$regular: 400;
 $bold: 600;
+$regular: 400;
+$light: 300;
 
 /* Colors add sophistication */
 $paint-it-black: #251C1C;
@@ -38,14 +38,6 @@ $petite: 15px;
   padding: 0 $typical;
 }
 
-.column--indent {
-  margin-left: $collosal;
-}
-
-.column--indent--description {
-  max-width: 50vw;
-}
-
 /* Typography */
 h1 {
   font-family: $dont-be-so-bold;
@@ -55,7 +47,6 @@ h1 {
   text-transform: lowercase;
   color: $fiery-red;
 }
-
 h2 {
   font-family: $dont-be-so-bold;
   font-size: $humongous;
@@ -65,7 +56,6 @@ h2 {
   margin: $collosal 0 $collosal $humongous;
   width: 75vw;
 }
-
 h3 {
   font-family: $italian-pizza-text;
   font-size: $elegant;
@@ -78,7 +68,6 @@ h3 {
 }
 h4 {}
 h5 {}
-
 body {
   background: $clouds-of-grey;
   font-family: $old-school-body;
@@ -88,12 +77,6 @@ body {
   letter-spacing: -0.25px;
   color: $paint-it-black;
 }
-
-ul {}
-ol {}
-img {}
-button {}
-table {}
 
 /* Menu */
 .menu {
@@ -351,11 +334,17 @@ table {}
     max-width: 49vw;
   }
 
+  h1 {
+    max-width: 100%;
+  }
+
   h2 {
     margin-left: 0;
+    max-width: 100%;
   }
 
   h3 {
+    max-width: 100%;
     margin-left: 8vw;
   }
 
@@ -363,32 +352,50 @@ table {}
     margin-left: 0;
   }
 
+  .note--title {
+    margin-left: 0;
+  }
+
+  .note--subtitle {
+    margin-left: 0;
+  }
+
   .introduction {
     margin-left: 0;
-    max-width: 100%
+    max-width: 50%;
   }
 
   .content--detail p {
-    margin: 0 8vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
     max-width: 100%;
   }
 
   .content--detail img {
-    width: 120%;
-    margin-left: -10%;
+    width: 200%;
+    margin-left: -50%;
   }
 
   .image--description {
-    max-width: 100%;
+    max-width: 30vw;
     margin-top: 0;
     margin-left: 8vw;
+  }
+
+  .content--detail ul {
+    margin-left: 8vw;
+    max-width: 100%;
+  }
+
+  .content--detail ol {
+    margin-left: 8vw;
+    max-width: 100%;
   }
 
   .content--detail table {
     margin-left: 8vw;
   }
 }
-
 @media screen and (min-width: 412px) and (max-width: 1000px) {
   #container {
     padding: 0 $petite;
