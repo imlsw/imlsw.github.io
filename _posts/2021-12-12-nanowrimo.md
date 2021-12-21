@@ -12,7 +12,7 @@ excerpt: Van idee naar verhaal - 50.000 woorden in een maand.
 Dit jaar deed ik mee aan de National November Writing Month, ofwel NaNoWriMo. Een Amerikaans evenement dat al jarenlang elke novembermaand plaatsvind. Het doel? 50.000 woorden schrijven in een maand. Geen 'af' verhaal, maar een eerste draft.
 
 ## Waarom meedoen?
-Sinds juli 2020 spookt er al een verhaal door mijn hoofd. Ik had zo'n levendige droom op de laatste nacht van [onze roadtrip](/roadtrip-2021), dat ik hem heb opgeschreven. Datzelfde jaar heb ik een aantal scenes uitgeschreven, maar daar bleef het bij. Toen een collega me in oktober attendeerde op de Literatuurprijs van Nijmegen, ging ik van stag. In plaats van me in te schrijven voor de Literatuurprijs, schreef ik me in voor NaNoWriMo. Want een uitdaging is geen uitdaging als hij niet groot genoeg is.
+Sinds juli 2020 spookt er al een verhaal door mijn hoofd. Ik had zo'n levendige droom op de laatste nacht van [onze roadtrip](/roadtrip-2020), dat ik hem heb opgeschreven. Datzelfde jaar heb ik een aantal scenes uitgeschreven, maar daar bleef het bij. Toen een collega me in oktober attendeerde op de Literatuurprijs van Nijmegen, ging ik van stag. In plaats van me in te schrijven voor de Literatuurprijs, schreef ik me in voor NaNoWriMo. Want een uitdaging is geen uitdaging als hij niet groot genoeg is.
 
 1 november begon ik met schrijven. Het was kwart voor zes en ik was een beetje gespannen. Aan de andere kant keek ik er ook al het hele weekend naar uit. Er gingen wel gedachten door mijn hoofd. Wat ga ik schrijven? Wat als ik geen zin heb? Wat als ik vast zit? Nou, dat was snel opgelost. Ik begon met schrijven op 1 november en ben niet meer gestopt.
 
