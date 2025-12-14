@@ -154,6 +154,10 @@ img {
     margin: 0 0 16px 0;
   }
 
+  img {
+    margin: 24px 0 0 0;
+  }
+
   .blog--date {
     margin: 16px 0 24px 0;
   }
